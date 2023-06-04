@@ -1,0 +1,56 @@
+.mappage{
+    background-color: rgb(255, 255, 255);
+    padding: 0 100px;
+}
+
+.aboutpage{
+    margin: 0;
+}
+
+.about1{
+    background-color: rgb(0, 0, 0);
+    padding: 100px;
+    color: #666;
+}
+
+.about1-pictures{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.about1-pc1{
+    margin: 10px;
+    width: 30vw;
+}
+
+.about1-pc2{
+    margin: 10px;
+    width: 30vw;
+}
+
+.about2{
+    background-color:rgb(255, 255, 255);
+    padding: 80px 100px;
+}
+
+.mapcontent-title{
+    text-align: center;
+    padding-top: 10px;
+}
+
+.detail-distance{
+    text-align: center;
+    padding: 20px 0;
+    
+}
+
+.map1{
+    width: 100%
+}
+
+.about-title{
+    display: flex;
+    align-items: center;
+}

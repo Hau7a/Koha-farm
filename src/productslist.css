@@ -1,0 +1,158 @@
+.pro-list{
+    background-color: aliceblue;
+    padding:10px 100px 100px 100px;
+}
+
+.pro-list-title{
+    text-align: center;
+}
+
+.experience-list{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.card-text1{
+    background-size: 100%;
+    color: black;
+}
+
+.products-list{
+    display: flex;
+}
+
+.gift-list{
+    display: flex;
+}
+
+.ex1 {
+    background-color: #fff;
+    text-align: center;
+    margin-top: 15px;
+	margin-left: 3.5%;
+	border: none;
+	border-radius: 5px;
+	width: 32%;
+    height:32%;
+    height: auto;
+	box-shadow: 0 0 5px #999;
+}
+
+.ex2 {
+    background-color: #fff;
+    text-align: center;
+    margin-top: 15px;
+	margin-left: 3.5%;
+	border: none;
+	border-radius: 5px;
+	width: 32%;
+    height:32%;
+    height: auto;
+	box-shadow: 0 0 5px #999;
+}
+
+
+.ex3 {
+    background-color: #fff;
+    text-align: center;
+    margin-top: 15px;
+	margin-left: 3.5%;
+	border: none;
+	border-radius: 5px;
+	width: 32%;
+    height:32%;
+    height: auto;
+	box-shadow: 0 0 5px #999;
+}
+
+.ex4 {
+    background-color: #fff;
+    text-align: center;
+    margin-top: 15px;
+	margin-left: 3.5%;
+	border: none;
+	border-radius: 5px;
+	width: 32%;
+    height:32%;
+    height: auto;
+	box-shadow: 0 0 5px #999;
+}
+
+.ex1 a{
+    text-decoration: none;
+    border: none;
+    color: black;
+}
+
+.ex2 a{
+    text-decoration: none;
+    border: none;
+    color: black;
+}
+
+.ex3 a{
+    text-decoration: none;
+    border: none;
+    color: black;
+}
+
+.ex4 a{
+    text-decoration: none;
+    border: none;
+    color: black;
+}
+
+
+
+.text_excerpt{
+    background-color: #ffffff;
+}
+
+.ex1 p{
+    margin-left: 2px;
+    margin-right: 2px;
+}
+
+.ex2 p{
+    margin-left: 2px;
+    margin-right: 2px;
+}
+
+.ex3 p{
+    margin-left: 2px;
+    margin-right: 2px;
+}
+
+.ex4 p{
+    margin-left: 2px;
+    margin-right: 2px;
+}
+
+hr{
+    border-top: 2px solid black;
+}
+
+.btn_area{
+    background-color: #ffffff;
+    padding-bottom: 5%;
+    padding-top: 2%;
+}
+
+a.btn-border {
+    border: 2px solid #000;
+    border-radius: 5px;
+    background: #fff;
+    padding: 0.5% 4%;
+}
+  
+a.btn-border:hover {
+    color: #fff;
+    background: #000;
+}
+
+
+
+.productli{
+    margin: 100px;
+}

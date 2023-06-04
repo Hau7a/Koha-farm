@@ -1,0 +1,5 @@
+{
+    "liveServer.settings.port": 5501,
+    "appService.defaultWebAppToDeploy": "/subscriptions/e2c1c2ea-ad97-46ce-904d-a61a74e7f0c4/AppServices/subscriptions/e2c1c2ea-ad97-46ce-904d-a61a74e7f0c4/resourceGroups/server-2120041/providers/Microsoft.Web/sites/server-2120041-2",
+    "appService.deploySubpath": "build"
+}
